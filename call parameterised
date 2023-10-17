@@ -1,0 +1,8 @@
+def display(x,y):
+    print("First parameter value is",x)
+    print("Second parameter value is ",y)
+    c=x+y
+    return c
+#Call display()
+m=display(200,45)
+print ("addition of given number is ", m) 
